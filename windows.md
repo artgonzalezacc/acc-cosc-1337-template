@@ -19,7 +19,17 @@ Windows-Development Environment Setup
    - Download the Windows Installer Option.
    - https://cmake.org/download/
    - Click the file to install (remember the install location for later).
-   
+
+4. Install Git
+   - Download the Windows option from https://git-scm.com/downloads
+   - Start the Installer
+   - Accept all the defaults 
+   - Click on the Windows icon or use the Windows key on keyboard
+   - Type Bash
+   - Enter Git Bash
+   - type git config --global user.name "Enter your GitHub username", press the ENTER key
+   - type git config --global user.email your email@example.com, press the ENTER key           
+
 4. Install Visual Studio Code
    - Download Visual Studio Code for Windows
    - https://code.visualstudio.com/
